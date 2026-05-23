@@ -72,13 +72,19 @@ The analytical queries embedded in this warehouse translate raw lines of data in
 
 **What it does:** Flags locations where late orders surpass $15\%$ of total volume or where average trip duration breaks a 45-minute threshold.
 
+![image](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/45e940d636c79cdc068b2273e620b004543f610d/Business%20Question%202.png)
+
 **Customer Lifetime Value (CLV)**
 
 **What it does:** Extracts top spending users, mapping out how long they have been with the platform alongside how frequently they purchase.
 
+![image](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/45e940d636c79cdc068b2273e620b004543f610d/Business%20Question%203.png)
+
 **Cuisine Saturation Analysis**
 
 **What it does:** Maps out how many restaurants offer a specific food type against the actual revenue generated per store for that food category.
+
+![image alt](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/45e940d636c79cdc068b2273e620b004543f610d/Business%20Question%204.png)
 
 **Customer Churn Risk**
 
