@@ -90,6 +90,10 @@ The analytical queries embedded in this warehouse translate raw lines of data in
 
 **What it does:** Groups users into structured risk brackets based on the days elapsed since their last order ($>60$ Days = High Risk, $30\text{--}60$ Days = Medium Risk).
 
+![image](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/9654186b5abc37a7dd43ddb4e0a4ba7e5c7b9532/Business%20Question%205.png)
+
 **Operational Trends Over Time**
 
 **What it does:** Generates a month-over-month baseline view tracking aggregate volume growth, late fulfillment rates, and gross financial revenue.
+
+![image](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/9654186b5abc37a7dd43ddb4e0a4ba7e5c7b9532/Business%20Question%206.png)
