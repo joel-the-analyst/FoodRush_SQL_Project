@@ -66,6 +66,8 @@ The analytical queries embedded in this warehouse translate raw lines of data in
 
 **What it does:** Identifies top-performing partners based purely on completed sales values while calculating their average transaction ticket size.
 
+![image alt](https://github.com/joel-the-analyst/FoodRush_SQL_Project/blob/0b94ba8b1821740af2b6fab3e7771841fb789762/Business%20Question%201.png)
+
 **Cities with Poor Delivery Performance**
 
 **What it does:** Flags locations where late orders surpass $15\%$ of total volume or where average trip duration breaks a 45-minute threshold.
